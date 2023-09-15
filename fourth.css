@@ -1,0 +1,193 @@
+#fourthPage{
+    padding: 20px;
+    background-color: #33556E;
+    height: 635px;
+}
+
+@media screen and (max-width: 2000px) {
+    #fourthPageTop{
+        font-size: 100px;
+    }
+    .fourthBor{
+        border-bottom: 1px solid black;
+        width: 700px;
+        height: 15px;
+    }
+    .Fourthtittle{
+        font-size: 25px;
+        text-align: center;
+    }
+   .fourthPageBottom{
+    width: 450px;
+    height: 525px;
+    background-color: red;
+    margin-top: 30px;
+   }
+   .fourthPageBottomRight{
+    margin-left: 50px;
+    width: 700px;
+    height: 525px;
+    background-color: red;
+    margin-top: 30px;
+}
+.fourthPageBottom img{
+    width: 100%;
+    height: 100%;
+}
+.fourthPageBottomRight img{
+    width: 100%;
+    height: 100%;
+}
+}
+@media screen and (max-width: 1000px) {
+    #fourthPage{
+        height: 500px;
+    }
+    .Fourthtittle{
+        font-size: 25px;
+        text-align: center;
+    }
+   
+    .fourthBor{
+        border-bottom: 1px solid black;
+        width: 550px;
+        height: 15px;
+    }
+    .fourthPageBottom{
+        width: 300px;
+        height: 400px;
+        background-color: rgb(41, 107, 45);
+        margin-top: 30px;
+       }
+       .fourthPageBottom img{
+            width: 100%;
+            height: 100%;
+       }
+       .fourthPageBottomRight{
+        margin-left: 30px;
+        width: 650px;
+        height: 400px;
+        background-color: rgb(41, 107, 45);
+        margin-top: 30px;
+    }
+    .fourthPageBottomRight img{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media screen and (max-width: 700px) {
+    #fourthPage{
+        height: 420px;
+    }
+    .fourthBor{
+        border-bottom: 1px solid black;
+        width: 350px;
+        height: 15px;
+    }
+    .fourthPageBottom{
+        width: 150px;
+        height: 325px;
+        background-color: rgb(82, 110, 171);
+        margin-top: 20px;
+       }
+       .fourthPageBottomRight{
+        margin-left: 30px;
+        width: 350px;
+        height: 325px;
+        background-color: rgb(82, 110, 171);
+        margin-top: 20px;
+    }
+    .fourthPageBottom img{
+        width: 100%;
+        height: 100%;
+   }
+   .fourthPageBottomRight img{
+    width: 100%;
+    height: 100%;
+}
+    
+}
+@media screen and (max-width: 600px) {
+    #fourthPage{
+        height: 400px;
+    }
+    .fourthBor{
+        border-bottom: 1px solid black;
+        width: 200px;
+        height: 15px;
+    }
+    .fourthPageBottom{
+        width: 200px;
+        height: 300px;
+        background-color: rgb(158, 38, 124);
+        margin-top: 20px;
+       }
+       .fourthPageBottomRight{
+        margin-left: 10px;
+        width: 335px;
+        height: 300px;
+        background-color: rgb(158, 38, 124);
+        margin-top: 20px;
+    }
+    .fourthPageBottom img{
+        width: 100%;
+        height: 100%;
+   }
+   .fourthPageBottomRight img{
+    width: 100%;
+    height: 100%;
+}
+
+}
+@media screen and (max-width: 500px) {
+    #fourthPage{
+        height: 300px;
+    }
+    .fourthPageBottom{
+        width: 200px;
+        height: 225px;
+        background-color: rgb(197, 137, 41);
+        margin-top: 20px;
+       }
+       .fourthPageBottomRight{
+        margin-left: 10px;
+        width: 335px;
+        height: 225px;
+        background-color: rgb(197, 137, 41);
+        margin-top: 20px;
+    }
+    .fourthPageBottom img{
+        width: 100%;
+        height: 100%;
+   }
+   .fourthPageBottomRight img{
+    width: 100%;
+    height: 100%;
+}
+}
+@media screen and (max-width: 300px) {
+    #fourthPage{
+        height: 250px;
+    }
+    .fourthPageBottom{
+        width: 175px;
+        height: 170px;
+        background-color: rgb(77, 41, 197);
+        margin-top: 20px;
+       }
+       .fourthPageBottomRight{
+        margin-left: 10px;
+        width: 300px;
+        height: 170px;
+        background-color: rgb(77, 41, 197);
+        margin-top: 20px;
+    }
+    .fourthPageBottom img{
+        width: 100%;
+        height: 100%;
+   }
+   .fourthPageBottomRight img{
+    width: 100%;
+    height: 100%;
+}
+}

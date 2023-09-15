@@ -1,0 +1,111 @@
+#secondPage{
+    padding: 20px;
+    background-color: #33556E;
+    height: 635px;
+}
+
+@media screen and (max-width: 2000px) {
+    #secondPageTop{
+        font-size: 100px;
+    }
+    #secondPageCenter{
+        font-size: 70px;
+    }
+    #secondPageRightBottom{
+        font-size: 35px;
+    }
+    #secondPageLeftBottom{
+        top: 1150px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    #secondPage{
+        height: 500px;
+    }
+    #secondPageTop{
+        font-size: 100px;
+    }
+    #secondPageCenter{
+        font-size: 50px;
+    }
+    #secondPageRightBottom{
+        font-size: 25px;
+    }
+    #secondPageLeftBottom{
+        top: 1000px;
+    }
+    
+}
+@media screen and (max-width: 700px) {
+    #secondPage{
+        height: 420px;
+    }
+    #secondPageTop{
+        font-size: 80px;
+    }
+    #secondPageCenter{
+        font-size: 43px;
+    }
+    #secondPageRightBottom{
+        font-size: 15px;
+    }
+    #secondPageLeftBottom{
+        top: 850px;
+    }
+    
+}
+@media screen and (max-width: 600px) {
+    #secondPage{
+        height: 400px;
+    }
+    #secondPageTop{
+        font-size: 60px;
+    }
+    #secondPageCenter{
+        font-size: 35px;
+    }
+    #secondPageRightBottom{
+        font-size: 15px;
+    }
+    #secondPageLeftBottom{
+        top: 800px;
+    }
+    
+
+}
+@media screen and (max-width: 500px) {
+    #secondPage{
+        height: 300px;
+    }
+    #secondPageTop{
+        font-size: 35px;
+    }
+    #secondPageCenter{
+        font-size: 25px;
+    }
+    #secondPageRightBottom{
+        font-size: 15px;
+    }
+    #secondPageLeftBottom{
+        top: 600px;
+    }
+    
+}
+@media screen and (max-width: 300px) {
+    #secondPage{
+        height: 250px;
+    }
+    #secondPageTop{
+        font-size: 25px;
+    }
+    #secondPageCenter{
+        font-size: 20px;
+    }
+    #secondPageRightBottom{
+        font-size: 15px;
+    }
+    #secondPageLeftBottom{
+        top: 510px;
+    }
+    
+}
