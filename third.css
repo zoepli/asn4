@@ -1,8 +1,4 @@
-#thirdPage{
-    padding: 20px;
-    background-color: black;
-    height: 635px;
-}
+#thirdPage
 
 @media screen and (max-width: 2000px) {
     #thirdPageTop{
